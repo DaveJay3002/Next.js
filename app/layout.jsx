@@ -7,8 +7,6 @@ export const metadata = {
   description: "Discover and share AI prompts",
 };
 
-type Props = {};
-
 const RootLayout = ({ children }) => {
   return (
     <html lang="en">
